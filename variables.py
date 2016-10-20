@@ -1,0 +1,8 @@
+LOGIN_NAME = "Admin"
+PASSWORD = "admin"
+EMPLOYEE_NAME = "Anthony Milan Nolan"
+U_NAME = "Kite.test5"
+P_WORD = "test123"
+CONFIRM_P_WORD = "test123"
+Search_Update_USER_NAME = "sophia.ava"
+Updated_EMPLOYEE_NAME = "Kevin Amester Mathews"
